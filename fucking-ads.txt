@@ -2,3 +2,5 @@
 # Random block list used in hrnph home
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 thaibetsite.com
+0.0.0.0 localflirtnearme.com
+0.0.0.0 exness.com
